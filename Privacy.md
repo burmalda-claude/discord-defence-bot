@@ -22,4 +22,4 @@
 Вы можете запросить удаление данных своего сервера или своего ID из резервных копий, создав запрос по ссылке ниже.
 
 ## Контакты
-https://github.com/burmalda-claude/discord-defence/issues
+https://github.com/burmalda-claude/discord-defence-bot/issues
